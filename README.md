@@ -2,7 +2,7 @@
 
 Level up your gaming experience with our HWID Spoofer, designed specifically for VALORANT and FORTNITE. Bypass hardware bans and get back in the game! 🚀
 
-![HWID Spoofer](assets/hwid.jpg) <!-- Replace with your actual image -->
+![HWID Spoofer](assets/HWID.png) <!-- Replace with your actual image -->
 
 ## ✨ Features
 
